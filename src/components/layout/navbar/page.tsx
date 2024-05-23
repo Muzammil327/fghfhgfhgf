@@ -11,7 +11,7 @@ import { NavbarIpropsSlug } from "./type";
 
 const navigation: NavbarIpropsSlug[] = [
   { name: "Home", href: "/" },
-  { name: "Books", href: "/study-material/" },
+  { name: "Books", href: "/books/" },
   { name: "Quiz", href: "/study-material/" },
   { name: "Notes", href: "/study-material/" },
   { name: "Online Test", href: "/study-material/" },
